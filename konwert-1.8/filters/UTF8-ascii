@@ -60,6 +60,16 @@ VARIANT_bg='
 ' VARIANT1_ua='
 	И	Y
 	и	y
+        Щ       Sch
+        щ       sch
+        Г       Gh
+        г       h
+	Й       Y
+	й       i
+        я       ia
+	ю       iu
+	є       ie
+	Ї       Yi
 ' REPLACE='?' MIME=us-ascii
 
 if [ "$FILTERM" = out ]
